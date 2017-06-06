@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Geometries>
+  <POINT id="2" Geometry="POINT(40.168931480746586 55.137109324761425)" DateTime="06_02_07_20_12" Name="Спас-клепики" />
+  <POINT id="-1" Geometry="POINT(37.351518720345865 55.82888710585451)" Name="Митино"/>
+  <POINT id="-1" Geometry="POINT(37.20938395877994 55.64562472840466)" Name="ЛГ"/>
+  <POINT id="-1" Geometry="POINT(40.3135484 55.0317964)" Name="from"/>
+  <POINT id="-1" Geometry="POINT(40.3139798 54.9951975)" Name="away"/>
+  <POINT id="-1" Geometry="POINT(40.3262916 54.9381191)" Name="to"/>
+</Geometries>

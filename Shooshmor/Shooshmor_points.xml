@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Geometries>
+  <POINT id="-1" Geometry="POINT(40.044379 55.707285)" Name="вариант 1" />
+  <POINT id="-1" Geometry="POINT(40.033006 55.707139)" Name="вариант 2" />
+  <POINT id="-1" Geometry="POINT(40.032827 55.710451)" Name="слияние 1" />
+  <POINT id="-1" Geometry="POINT(40.111866 55.716399)" Name="вариант 3" />
+  <POINT id="-1" Geometry="POINT(40.109634 55.729406)" Name="слияние 2" />
+  <POINT id="-1" Geometry="POINT(39.37838 55.82019)" Name="вариант 4" />
+  <POINT id="-1" Geometry="POINT(40.02053333440423 55.696700036335734)" Name="сведения" />
+  <POINT id="-1" Geometry="POINT(39.43682002278194 55.4597800239794)" Name="сведения 2" />
+</Geometries>
