@@ -47,29 +47,12 @@
           <Range from="5000000" to="2000" />
         </Layer>
 
-          <Layer name="pn4x4 birthday_Sep_09_track.xml" type="XML" enabled="false">
-            <Source location="absolute" name="/storage/emulated/0/Razan06_10_20_03.track" />
-            <Range from="NAN" to="NAN" />
-            <Style type="vector" lineWidth="2.0" opacity="1.0">
-              <Color description="line" name="custom" r="255" g="0" b="0" a="255" />
-              <Color description="fill" name="custom" r="255" g="0" b="0" a="255" />
-            </Style>
-          </Layer>
-            <Layer name="pn4x4 birthday_Sep_09_track.xml" type="XML" enabled="false">
-              <Source location="absolute" name="/storage/emulated/0/Razan06_10_20_03.track" />
-              <Range from="NAN" to="NAN" />
-              <Style type="vector" lineWidth="2.0" opacity="1.0">
-                <Color description="line" name="custom" r="255" g="0" b="0" a="255" />
-                <Color description="fill" name="custom" r="255" g="0" b="0" a="255" />
-              </Style>
-            </Layer>
-
-      <Layer name="треки xml" type="XML" enabled="false">
-        <Source location="local" name="Рязянь_Треки.xml" />
+      <Layer name="Рязань_Треки_2015.xml" type="XML" enabled="true">
+        <Source location="absolute" name="/storage/emulated/0/Рязань_Треки_2015.xml" />
         <Range from="NAN" to="NAN" />
         <Style type="vector" lineWidth="2.0" opacity="1.0">
-          <Color description="line" name="red" r="255" g="0" b="0" a="255" />
-          <Color description="fill" name="red" r="255" g="0" b="0" a="255" />
+          <Color description="line" name="custom" r="20" g="130" b="176" a="255" />
+          <Color description="fill" name="custom" r="33" g="186" b="228" a="255" />
         </Style>
       </Layer>
       <Layer name="poi" type="XML" enabled="true">
