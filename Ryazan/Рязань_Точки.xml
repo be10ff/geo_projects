@@ -6,4 +6,8 @@
   <POINT id="-1" Geometry="POINT(40.3135484 55.0317964)" Name="from"/>
   <POINT id="-1" Geometry="POINT(40.3139798 54.9951975)" Name="away"/>
   <POINT id="-1" Geometry="POINT(40.3262916 54.9381191)" Name="to"/>
+  <POINT id="0" Geometry="POINT(41.1018596698028 54.62951947322005)" Project="Ryazan2017" DateTime="06_09_12_24_18" />
+  <POINT id="1" Geometry="POINT(41.10187457000001 54.629444939995366)" Project="Ryazan2017" DateTime="06_09_12_25_36" />
+  <POINT id="2" Geometry="POINT(40.74870368126693 54.292934157224074)" Project="Ryazan2017" DateTime="06_10_15_53_58" />
+  <POINT id="3" Geometry="POINT(40.44935106249629 54.34408230791956)" Project="Ryazan2017" DateTime="06_11_18_46_24" />
 </Geometries>
