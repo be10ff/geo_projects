@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <Geometries>
   <POINT id="0" Geometry="POINT(38.85683681999999 55.26202603999445)" Project="Egorevsk" DateTime="01_08_17_00_03" Description="Эскаваторы"/>
-  <POINT id="1" Geometry="POINT(38.85683681999999 55.26202603999445)" Project="Egorevsk" DateTime="01_08_17_00_16" Description="Эскаваторы"/>
+  <POINT id="3" Geometry="POINT(39.03557 55.35622)" Project="Egorevsk" Note="Встреча 2017" DateTime="07_13_08_57_54" />
+  <POINT id="4" Geometry="POINT(38.892233623065486 55.31762957204192)" Project="Egorevsk" DateTime="07_15_16_34_56" warning="кольцо Андрея" />
 </Geometries>

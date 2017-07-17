@@ -73,6 +73,14 @@
           <Color description="fill" name="custom" r="136" g="136" b="136" a="255" />
         </Style>
       </Layer>
+        <Layer name="Egorevsk_Jul_15_track.xml" type="XML" enabled="true">
+          <Source location="absolute" name="/storage/emulated/0/Egorevsk/Egorevsk_Jul_15_track.xml" />
+          <Range from="NAN" to="NAN" />
+          <Style type="vector" lineWidth="2.0" opacity="1.0">
+            <Color description="line" name="custom" r="255" g="0" b="0" a="255" />
+            <Color description="fill" name="custom" r="255" g="0" b="0" a="255" />
+          </Style>
+        </Layer>
     </Group>
   </Map>
   <Description text="Egorevsk" />
