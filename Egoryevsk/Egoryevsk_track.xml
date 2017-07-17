@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <Geometries>
-  <TRACK id="-1" Geometry="/storage/emulated/0/Egorevsk01_08_12_09.track" Project="Egorevsk" Description="01_08_12_09_49" />
-  <TRACK id="-1" Geometry="/storage/emulated/0/Egorevsk01_08_12_57.track" Project="Egorevsk" Description="01_08_12_57_01" />
-  <TRACK id="-1" Geometry="/storage/emulated/0/Egorevsk01_08_19_52.track" Project="Egorevsk" Description="01_08_19_52_38" />
+  <TRACK id="-1" Geometry="/storage/emulated/0/Egorevsk/Egorevsk01_08_12_09.track" Project="Egorevsk" Description="01_08_12_09_49" />
+  <TRACK id="-1" Geometry="/storage/emulated/0/Egorevsk/Egorevsk01_08_12_57.track" Project="Egorevsk" Description="01_08_12_57_01" />
+  <TRACK id="-1" Geometry="/storage/emulated/0/Egorevsk/Egorevsk01_08_19_52.track" Project="Egorevsk" Description="01_08_19_52_38" />
+  <TRACK id="-1" Geometry="/storage/emulated/0/Egorevsk/Egorevsk01_07_22_05.track" Project="Egorevsk" Description="LG" />
 </Geometries>
