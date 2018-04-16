@@ -61,6 +61,31 @@
           <Color description="fill" name="custom" r="255" g="0" b="0" a="255" />
         </Style>
       </Layer>
+      <Layer name="Dobrinsky_Apr_14_track.xml" type="XML" enabled="true">
+        <Source location="absolute" name="/storage/emulated/0/Dobrinsky/Dobrinsky_Apr_14_track.xml" />
+        <Range from="NAN" to="NAN" />
+        <Style type="vector" lineWidth="2.0" opacity="1.0">
+          <Color description="line" name="custom" r="255" g="0" b="0" a="255" />
+          <Color description="fill" name="custom" r="255" g="0" b="0" a="255" />
+        </Style>
+      </Layer>
+      <Layer name="Dobrinsky_Apr_14_track.xml" type="XML" enabled="true">
+        <Source location="absolute" name="/storage/emulated/0/Dobrinsky/Dobrinsky_Apr_14_track.xml" />
+        <Range from="NAN" to="NAN" />
+        <Style type="vector" lineWidth="2.0" opacity="1.0">
+          <Color description="line" name="custom" r="255" g="0" b="0" a="255" />
+          <Color description="fill" name="custom" r="255" g="0" b="0" a="255" />
+        </Style>
+      </Layer>
+      <Layer name="Dobrinsky_Apr_14_track.xml" type="XML" enabled="true">
+        <Source location="absolute" name="/storage/emulated/0/Dobrinsky/Dobrinsky_Apr_14_track.xml" />
+        <Range from="NAN" to="NAN" />
+        <Style type="vector" lineWidth="2.0" opacity="1.0">
+          <Color description="line" name="custom" r="255" g="0" b="0" a="255" />
+          <Color description="fill" name="custom" r="255" g="0" b="0" a="255" />
+        </Style>
+      </Layer>
+
     </Group>
   </Map>
   <Description text="dr" />
