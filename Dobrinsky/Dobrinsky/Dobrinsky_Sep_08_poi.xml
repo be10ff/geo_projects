@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Geometries>
+  <POINT id="0" Geometry="POINT(36.75673161694288 55.2246068169801)" Project="Dobrinsky" DateTime="09_08_11_29_00" />
+  <POINT id="-1" Geometry="POINT(36.78451785496463 55.221935154348415)" />
+  <POINT id="2" Geometry="POINT(36.81429827161336 55.2233703220363)" Project="Dobrinsky" DateTime="09_08_14_08_09" />
+  <POINT id="3" Geometry="POINT(36.81532306032607 55.23006431709156)" Project="Dobrinsky" DateTime="09_08_14_21_18" />
+  <POINT id="4" Geometry="POINT(36.802641415145885 55.23426292708611)" Project="Dobrinsky" DateTime="09_08_14_36_22" />
+  <POINT id="5" Geometry="POINT(36.802300295042635 55.23393369792622)" Project="Dobrinsky" DateTime="09_08_14_36_41" />
+  <POINT id="6" Geometry="POINT(36.79482557902333 55.22282428781357)" Project="Dobrinsky" DateTime="09_08_14_53_21" />
+  <POINT id="7" Geometry="POINT(36.78644486578712 55.22412666614405)" Project="Dobrinsky" DateTime="09_08_15_30_42" />
+  <POINT id="8" Geometry="POINT(36.78659667469783 55.225064736600345)" Project="Dobrinsky" DateTime="09_08_15_30_56" />
+  <POINT id="9" Geometry="POINT(36.78341873594885 55.22178886814194)" Project="Dobrinsky" DateTime="09_08_15_42_10" />
+  <POINT id="10" Geometry="POINT(36.776349510804714 55.225983283545)" Project="Dobrinsky" DateTime="09_08_15_45_19" />
+  <POINT id="11" Geometry="POINT(36.776349510804714 55.225983283545)" Project="Dobrinsky" DateTime="09_08_15_45_30" />
+  <POINT id="12" Geometry="POINT(36.771262818859306 55.22549503213887)" Project="Dobrinsky" DateTime="09_08_15_57_02" />
+  <POINT id="13" Geometry="POINT(36.77510304679386 55.22016970559556)" Project="Dobrinsky" DateTime="09_08_16_03_41" />
+</Geometries>
