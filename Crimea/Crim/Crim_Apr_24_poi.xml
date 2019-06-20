@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Geometries>
+  <POINT id="0" Geometry="POINT(34.11079 44.95719)" Project="Crim" Name="Симферополь" DateTime="04_24_08_57_46" />
+  <POINT id="-1" Geometry="POINT(34.677521 44.82207)" встрече="Приветное" />
+  <POINT id="-1" Geometry="POINT(34.656609 44.788504)" адрес="г.Алушта, с. Приветное, канакская балка" аддн="Курортная 2" гостиница="ЭкоВилладж" />
+</Geometries>
