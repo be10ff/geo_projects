@@ -19,37 +19,37 @@
         <Range from="233014197" to="888" />
         </Layer>
         <Layer name="76_29_08.sqlitedb" type="SQL_YANDEX_LAYER" enabled="true">
-        <Source location="absolute" name="/storage/emulated/0/75_29_08.sqlitedb" />
+        <Source location="absolute" name="/storage/emulated/0/76_29_08.sqlitedb" />
         <sqlitedb zoom_type="SMART" min="1" max="19" ratio="1" />
         <Range from="233014197" to="888" />
         </Layer>
         <Layer name="76_30_08.sqlitedb" type="SQL_YANDEX_LAYER" enabled="true">
-        <Source location="absolute" name="/storage/emulated/0/75_29_08.sqlitedb" />
+        <Source location="absolute" name="/storage/emulated/0/76_30_08.sqlitedb" />
         <sqlitedb zoom_type="SMART" min="1" max="19" ratio="1" />
         <Range from="233014197" to="888" />
         </Layer>
         <Layer name="75_30_08.sqlitedb" type="SQL_YANDEX_LAYER" enabled="true">
-        <Source location="absolute" name="/storage/emulated/0/75_29_08.sqlitedb" />
+        <Source location="absolute" name="/storage/emulated/0/75_30_08.sqlitedb" />
         <sqlitedb zoom_type="SMART" min="1" max="19" ratio="1" />
         <Range from="233014197" to="888" />
         </Layer>
         <Layer name="75_31_08.sqlitedb" type="SQL_YANDEX_LAYER" enabled="true">
-        <Source location="absolute" name="/storage/emulated/0/75_29_08.sqlitedb" />
+        <Source location="absolute" name="/storage/emulated/0/75_31_08.sqlitedb" />
         <sqlitedb zoom_type="SMART" min="1" max="19" ratio="1" />
         <Range from="233014197" to="888" />
         </Layer>
         <Layer name="76_31_08.sqlitedb" type="SQL_YANDEX_LAYER" enabled="true">
-        <Source location="absolute" name="/storage/emulated/0/75_29_08.sqlitedb" />
+        <Source location="absolute" name="/storage/emulated/0/76_31_08.sqlitedb" />
         <sqlitedb zoom_type="SMART" min="1" max="19" ratio="1" />
         <Range from="233014197" to="888" />
         </Layer>
         <Layer name="76_32_08.sqlitedb" type="SQL_YANDEX_LAYER" enabled="true">
-        <Source location="absolute" name="/storage/emulated/0/75_29_08.sqlitedb" />
+        <Source location="absolute" name="/storage/emulated/0/76_32_08.sqlitedb" />
         <sqlitedb zoom_type="SMART" min="1" max="19" ratio="1" />
         <Range from="233014197" to="888" />
         </Layer>
         <Layer name="75_32_08.sqlitedb" type="SQL_YANDEX_LAYER" enabled="true">
-        <Source location="absolute" name="/storage/emulated/0/75_29_08.sqlitedb" />
+        <Source location="absolute" name="/storage/emulated/0/75_32_08.sqlitedb" />
         <sqlitedb zoom_type="SMART" min="1" max="19" ratio="1" />
         <Range from="233014197" to="888" />
         </Layer>
