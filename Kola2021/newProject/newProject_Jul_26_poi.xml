@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Geometries>
+  <POINT id="0" Geometry="POINT(35.59984 62.56232999999139)" Project="newProject" DateTime="07_26_09_24_31" />
+  <POINT id="2" Geometry="POINT(29.940117359661272 66.26381459447862)" Project="newProject" DateTime="07_29_15_28_45" />
+  <POINT id="2" Geometry="POINT(30.57899166666667 66.23794166665986)" Project="newProject" DateTime="07_29_20_00_48" />
+  <POINT id="3" Geometry="POINT(31.673788540402057 68.64632021039218)" Description="08_04_08_32_28" />
+  <POINT id="4" Geometry="POINT(31.673788540402057 68.64632021039218)" Description="08_04_08_32_34" />
+  <POINT id="5" Geometry="POINT(31.673788540402057 68.64632021039218)" Description="08_04_08_32_35" />
+  <POINT id="6" Geometry="POINT(31.673788540402057 68.64632021039218)" Description="33°33′35.31″E 67°39′51.92″N " />
+  <POINT id="7" Geometry="POINT(31.673788540402057 68.64632021039218)" Description="33°33′35.31″E 67°39′51.92″N " />
+  <POINT id="8" Geometry="POINT(31.673788540402057 68.64632021039218)" Description="33°33′35.31″E 67°39′51.92″N " />
+  <POINT id="-1" Geometry="POINT(0.0 0.0)" />
+  <POINT id="-1" Geometry="POINT(0.0 0.0)" />
+  <POINT id="11" Geometry="POINT(32.681094921090846 68.3695557660541)" Description="08_04_08_36_38" />
+  <POINT id="-1" Geometry="POINT(67.664422 33.559809)" имя="рудник" />
+  <POINT id="13" Geometry="POINT(33.559809 67.664422)" Project="рудник" DateTime="08_04_08_45_32" />
+  <POINT id="14" Geometry="POINT(33.64235050640511 67.66564265534248)" Project="newProject" DateTime="08_04_08_49_40" />
+  <POINT id="15" Geometry="POINT(33.64258834127634 67.66079727164833)" Project="newProject" DateTime="08_04_08_50_36" />
+  <POINT id="16" Geometry="POINT(33.605496666666674 67.79139999999414)" Project="newProject" name="радиация" DateTime="08_04_15_39_22" />
+  <POINT id="17" Geometry="POINT(33.59782718596319 67.73264216821724)" Project="newProject" DateTime="08_04_20_18_33" />
+</Geometries>
